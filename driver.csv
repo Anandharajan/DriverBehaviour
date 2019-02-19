@@ -1,5 +1,4 @@
-BAC level,brake pressure(MPa),steering angle (˚),vehicle speed (km/h),engine speed(rpm),Longitudinal acceleration(m/sˆ2),Transverse acceleration(m/sˆ2),yaw rate(rad/s),Accident
-,,,,,,,,
+bac,brakepress,steerangle,vehispeed,engspeed,Longitudinalacc,transverseacc,yawrate,accident
 0.02,90,15,40,1600,140,42.5,38.65,0
 0.02,88,12,50,2000,150,44,39.22,0
 0.05,88,5,68,2720,168,47.5,42.48,0
